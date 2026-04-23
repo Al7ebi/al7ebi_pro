@@ -7,3 +7,5 @@ requests>=2.31.0
 finnhub-python>=2.4.19
 streamlit-extras>=0.3.6
 st-annotated-text>=4.0.0
+pytz>=2024.1
+streamlit-autorefresh>=1.0.1
